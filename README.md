@@ -3,6 +3,13 @@
 This project investigates the relationship between county-level depression prevalence and voting behavior in the U.S. presidential election, focusing on the proportion of Republican votes across states. Developed as part of the Applied Statistical Modeling master's course at Trinity College Dublin, the analysis applies mixed-effects modeling to uncover geographic heterogeneity and assess the statistical significance of depression as a predictor.
 
 ---
+## 📄 Full Report
+
+View the full technical report:
+
+👉 [ASM_MainAssignment_DaimSharif.pdf](./ASM_MainAssignment_DaimSharif.pdf)
+
+---
 
 ## 📁 Contents
 
