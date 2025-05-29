@@ -10,6 +10,7 @@ This project investigates the relationship between county-level depression preva
 |----------------------------------|-----------------------------------------------------------------------------|
 | `ASM_MainAssignment_DaimSharif.pdf` | Final report detailing the modeling strategy, results, and key findings.     |
 | `Rcode.R`                         | Complete R code for preprocessing, modeling, diagnostics, and visualization.|
+| `USvotes.csv`                         | Dataset.|
 
 ---
 
